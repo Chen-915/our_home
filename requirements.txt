@@ -1,0 +1,7 @@
+streamlit
+pillow
+json
+Image_processing
+streamlit_option_menu
+csv
+random
